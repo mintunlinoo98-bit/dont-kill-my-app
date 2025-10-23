@@ -1,4 +1,20 @@
----
+-def shizuku_version = (the version above)
+implementation "dev.rikka.shizuku:api:$shizuku_version"
+
+// Add this line if you want to support Shizuku
+implementation "dev.rikka.shizuku:provider:$shizuku_version"def shizuku_version = (the version above)
+implementation "dev.rikka.shizuku:api:$shizuku_version"
+
+// Add this line if you want to support Shizuku
+implementation "dev.rikka.shizuku:provider:$shizuku_version"def shizuku_version = (the version above)
+implementation "dev.rikka.shizuku:api:$shizuku_version"
+
+// Add this line if you want to support Shizuku
+implementation "dev.rikka.shizuku:provider:$shizuku_version"def shizuku_version = (the version above)
+implementation "dev.rikka.shizuku:api:$shizuku_version"
+
+// Add this line if you want to support Shizuku
+implementation "dev.rikka.shizuku:provider:$shizuku_version"--
 manufacturer:
     - huawei
 
